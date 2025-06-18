@@ -1,4 +1,4 @@
-🧑‍💻 Portfólio Pessoal
+🧑‍💻 Portfólio Pessoal  
 Este projeto é um portfólio pessoal desenvolvido como parte do curso Discover, oferecido pela Rocketseat. Durante o curso, aprimorei meus conhecimentos em HTML, CSS e JavaScript, aplicando-os na construção de uma página moderna, responsiva e focada em apresentar meus projetos e habilidades como desenvolvedor.
 
 🚀 Tecnologias utilizadas:
